@@ -1,0 +1,41 @@
+{
+  "unit_id": "LOCAL-BATCH1-STALLMARGIN",
+  "name": "Craft fair profit spreadsheet for UK makers",
+  "public_name": "Stallmargin",
+  "slug": "stallmargin",
+  "site_dir": "/workspace/sites-new/stallmargin",
+  "public_domains": [],
+  "user_go": null,
+  "checkout_mode": "none",
+  "checkoutMode": "none",
+  "email": "localreply+stallmargin@agentmail.to",
+  "stage": "LOCAL_DRAFT",
+  "type": "digital",
+  "status_label": "LOCAL ONLY / coming soon / not for sale",
+  "offer": {
+    "audience": "UK craft-fair sellers",
+    "offer": "A stock, sales and event-cost workbook for UK makers. Track the figures behind your next stall.",
+    "pricing": [
+      {
+        "price": "\u00a39 one-off (planned)",
+        "status": "planned/draft"
+      }
+    ],
+    "limits": "Record-keeping only. No tax, VAT or business advice. Profit excludes tax, labour and any costs you do not enter."
+  },
+  "trader_name": null,
+  "trader_address": null,
+  "spend_gbp": 0,
+  "publish": {
+    "status": "NOT_PUBLISHED"
+  },
+  "inbox": {
+    "address": "localreply+stallmargin@agentmail.to",
+    "status": "plus-address; delivery not independently tested"
+  },
+  "name_check": {
+    "date": "2026-11-08",
+    "method": "Exact-name public web search only",
+    "result": "No obvious same-name commercial conflict in returned results; not trademark clearance"
+  }
+}

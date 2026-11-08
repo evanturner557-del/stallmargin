@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /stallmargin/d/
+Disallow: /d/
+Sitemap: https://evanturner557-del.github.io/stallmargin/sitemap.xml
