@@ -4,3 +4,5 @@
 .footerlinks a{min-width:44px}
 
 .proofwide{grid-column:1/-1}.proofwide .proofpic img{max-height:none}
+
+.glance{font-size:17px;line-height:1.5;background:var(--soft);border-left:4px solid var(--primary);padding:12px 16px;margin:0 0 22px;max-width:56ch}
